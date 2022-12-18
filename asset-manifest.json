@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/insynk/static/css/main.714f1dab.css",
-    "main.js": "/insynk/static/js/main.3011d1e0.js",
-    "index.html": "/insynk/index.html",
-    "main.714f1dab.css.map": "/insynk/static/css/main.714f1dab.css.map",
-    "main.3011d1e0.js.map": "/insynk/static/js/main.3011d1e0.js.map"
+    "main.css": "/MovieDB-App/static/css/main.714f1dab.css",
+    "main.js": "/MovieDB-App/static/js/main.3011d1e0.js",
+    "index.html": "/MovieDB-App/index.html",
+    "main.714f1dab.css.map": "/MovieDB-App/static/css/main.714f1dab.css.map",
+    "main.3011d1e0.js.map": "/MovieDB-App/static/js/main.3011d1e0.js.map"
   },
   "entrypoints": [
     "static/css/main.714f1dab.css",
